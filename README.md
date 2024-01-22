@@ -1,4 +1,4 @@
-### Hi there 👋, Brendan Lewis
+### Hi there 👋, I'm Brendan Lewis
 #### Website and game development
 I’m a creative and forward-thinking software developer who focuses on learning and creating cutting-edge websites and applications. I’m adept at project management and team leadership and am known for fostering collaboration and open communication within cross-functional teams. I excel at analytical problem-solving, driving innovation through effective teamwork, and ensuring code quality through rigorous veriﬁcation processes. Strong organizational adaptability rounds out my skill set, enabling me to deliver exceptional results in dynamic development environments.
 
