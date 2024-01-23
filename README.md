@@ -9,7 +9,7 @@ Skills: REACT / JS / C++ / HTML / CSS
 - 🔭 I’m currently working on a Godot Engine game 
 - 🌱 I’m currently learning Godot Engine
 
-####Development Experience:
+####Development Experience
 
 Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
