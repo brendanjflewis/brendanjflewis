@@ -7,7 +7,11 @@ In my free time I hang out with my partner, friends, and I play a lot of games. 
 Skills: REACT / JS / C++ / HTML / CSS
 
 - 🔭 I’m currently working on a Godot Engine game 
-- 🌱 I’m currently learning Godot Engine 
+- 🌱 I’m currently learning Godot Engine
+
+####Development Experience:
+
+Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brendanjflewis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brendanjflewis/)
