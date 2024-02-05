@@ -11,6 +11,7 @@ Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
 #### Development Experience
 
+Independent Developer | Jan 2024 - present
 Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
 
