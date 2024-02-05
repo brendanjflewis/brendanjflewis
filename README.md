@@ -11,8 +11,8 @@ Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
 #### Development Experience
 
-Independent Developer | Jan 2024 - present
-Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
+- Independent Developer | Jan 2024 - present
+- Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brendanjflewis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brendanjflewis/)
