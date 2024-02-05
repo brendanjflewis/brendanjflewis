@@ -6,7 +6,7 @@ In my free time I hang out with my partner, friends, and I play a lot of games. 
 
 Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
-- 🔭 I’m currently working on a Godot Engine game 
+- 🔭 I’m currently working on a brand new portfolio leveraging React, Next.js, and StyleX. Look forward to seeing it here by mid February! 
 - 🌱 I’m currently learning Godot Engine
 
 #### Development Experience
