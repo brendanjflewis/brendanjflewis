@@ -4,11 +4,11 @@ I’m a creative and forward-thinking software developer who focuses on learning
 
 In my free time I hang out with my partner, friends, and I play a lot of games. I also (shocker) code a lot! Currently I'm learning the Godot Engine and using it to create a small game project. I have some game projects up and running using Unreal Engine 5 and raylib as well. If and when I'm ready to share a project I'm working. You can find some updates here.
 
-https://brendanjflewis.com/
+<a src='https://brendanjflewis.com/' target='_blank'>https://brendanjflewis.com/</a>
 
 Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
-- 🔭 I’m currently working on a brand new portfolio leveraging React, Next.js, and StyleX. Look forward to seeing it here by mid February! 
+- 🔭 I’m currently working on a brand new portfolio. Look forward to seeing it here by mid February! 
 - 🌱 I’m currently learning Godot Engine
 
 #### Development Experience
