@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Brendan Lewis
 #### Website and game development
-I’m a creative and forward-thinking software developer who focuses on learning and creating cutting-edge websites and applications. I’m adept at project management and team leadership and am known for fostering collaboration and open communication within cross-functional teams. I excel at analytical problem-solving, driving innovation through effective teamwork, and ensuring code quality through rigorous veriﬁcation processes. Strong organizational adaptability rounds out my skill set, enabling me to deliver exceptional results in dynamic development environments.
+Hi! My name is Brendan, and I am passionate about creating intuitive, user-friendly products.
 
-In my free time I hang out with my partner, friends, and I play a lot of games. I also (shocker) code a lot! Currently I'm learning the Godot Engine and using it to create a small game project. I have some game projects up and running using Unreal Engine 5 and raylib as well. If and when I'm ready to share a project I'm working. You can find some updates here.
+In 2020, amidst the challenges of the pandemic, I seized the opportunity to delve into coding as a personal pursuit. By 2021, I decided to deepen my knowledge by enrolling in a full-stack web development program at the University of Richmond. Once I graduated in 2022, I transitioned into the professional realm, securing a role at WayPath Consulting as a Developer and Consultant. Since then, I have embraced a continuous growth mindset, honing my skills through independent projects, educational courses, and hands-on experience in the field.
+
+In my free time, you can find me enjoying quality time with my partner and friends, playing or making games, and consuming too much of the NBA. Of course, I code a lot. With the launch of this new portfolio, I am back to sharpening my fundamentals while expanding my skill set. Currently, I am learning Godot Engine, leveraging it to bring a creative game project.
 
 <a src='https://brendanjflewis.com/' target='_blank'>https://brendanjflewis.com/</a>
 
