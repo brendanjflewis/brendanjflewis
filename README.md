@@ -4,7 +4,7 @@ Hi! My name is Brendan, and I am passionate about creating intuitive, user-frien
 
 In 2020, amidst the challenges of the pandemic, I seized the opportunity to delve into coding as a personal pursuit. By 2021, I decided to deepen my knowledge by enrolling in a full-stack web development program at the University of Richmond. Once I graduated in 2022, I transitioned into the professional realm, securing a role at WayPath Consulting as a Developer and Consultant. Since then, I have embraced a continuous growth mindset, honing my skills through independent projects, educational courses, and hands-on experience in the field.
 
-In my free time, you can find me enjoying quality time with my partner and friends, playing or making games, and consuming too much of the NBA. Of course, I code a lot. With the launch of this new portfolio, I am back to sharpening my fundamentals while expanding my skill set. Currently, I am learning Godot Engine, leveraging it to bring a creative game project.
+In my free time, you can find me enjoying quality time with my partner and friends, playing or making games, and consuming too much of the NBA. Of course, I code a lot. With the launch of this new portfolio, I am back to sharpening my fundamentals while expanding my skill set. Currently, I am learning Godot Engine, maybe make a game!
 
 <a src='https://brendanjflewis.com/' target='_blank'>https://brendanjflewis.com/</a>
 
