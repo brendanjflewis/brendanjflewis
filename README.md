@@ -17,7 +17,7 @@ Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
 - Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
-### Education
+#### Education
 
 - Bachelor's of Science - Computer Science | Western Governors University | Jun 2024 - Nov 2025
 - Full Stack Web Development Certificate | University of Richmond | Aug 2021 - Feb 2022
