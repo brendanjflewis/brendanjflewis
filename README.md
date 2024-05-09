@@ -21,7 +21,6 @@ Skills: REACT / JS / C++ / HTML / CSS / SQL / MongoDB / GraphQL
 
 - Bachelor's of Science - Computer Science | Western Governors University | Jun 2024 - Nov 2025
 - Full Stack Web Development Certificate | University of Richmond | Aug 2021 - Feb 2022
-- Associates of Arts - English | Tidewater Community College | Aug 2013 - May 2015
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brendanjflewis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brendanjflewis/)
