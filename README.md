@@ -8,7 +8,9 @@ In my free time, you can find me spending time with my partner and friends, play
 
 <a src='https://brendanjflewis.com/' target='_blank'>https://brendanjflewis.com/</a>
 
-Skills: REACT / JS / C++ / Java / HTML / CSS / SQL / MongoDB / GraphQL / Unreal Engine / Godot Engine / Wordpress / ContentStack
+#### Skills 
+
+REACT / JS / C++ / Java / HTML / CSS / SQL / MongoDB / GraphQL / Unreal Engine / Godot Engine / Wordpress / ContentStack
 
 #### Development Experience
 
