@@ -10,7 +10,7 @@ In my free time, you can find me spending time with my partner and friends, play
 
 #### Skills 
 
-REACT / JS / C++ / Java / HTML / CSS / SQL / MongoDB / GraphQL / Unreal Engine / Godot Engine / Wordpress / ContentStack
+React / JavaScript / C++ / Java / HTML / CSS / SQL / MongoDB / GraphQL / Unreal Engine / Godot Engine / Wordpress / ContentStack
 
 #### Development Experience
 
