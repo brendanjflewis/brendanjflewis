@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Brendan Lewis
-#### Website and game development
+
 Hi! My name is Brendan and I'm a developer!
 
 <a src='https://brendanjflewis.com/' target='_blank'>https://brendanjflewis.com/</a>
