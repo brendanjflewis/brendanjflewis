@@ -10,7 +10,7 @@ Java / C++ / JavaScript / React / HTML / CSS / SQL / MongoDB / GraphQL / Unreal 
 
 #### Development Experience
 
-- Engineering Aide Sr @ ? | Dec 2024 - Present
+- Software Engineer @ Defense Contractor | Dec 2024 - Present
 - Associate Software Developer & Consultant @ WayPath Consulting | Jul 2022 - Dec 2023
 
 #### Education
