@@ -15,7 +15,7 @@ Java / C++ / JavaScript / React / HTML / CSS / SQL / MongoDB / GraphQL / Unreal 
 
 #### Education
 
-- Bachelor of Science - Computer Science | Western Governors University | Jun 2024 - Present
+- Bachelor of Science - Computer Science | Western Governors University | Jun 2024 - June 2026
 - Full Stack Web Development Certificate | University of Richmond | Aug 2021 - Feb 2022
 - Associate of Arts - English | Tidewater Community College | Aug 2013 - May 2015
 
